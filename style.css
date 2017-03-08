@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+header{
+    width:100%;
+    border:dashed blue 1px;
+    padding:30px;
+}
+
+aside
+{
+    width:20%;
+    padding:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around
+}
+section
+{
+    width:40%;
+    padding:10px;
+}
+footer{
+    width:100%;
+}
+a { 
+    color: inherit; 
+    text-decoration: inherit;
+    } 
+
+footer{
+    font-size: 0.9em;
+    color:#777;
+
+}
