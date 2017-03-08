@@ -28,14 +28,12 @@ section
 }
 footer{
     width:100%;
+     font-size: 0.9em;
+    color:#777;
+
 }
 a { 
     color: inherit; 
     text-decoration: inherit;
     } 
 
-footer{
-    font-size: 0.9em;
-    color:#777;
-
-}
